@@ -1,0 +1,2 @@
+Hello,
+please move me to output folder with Apache Camel!
